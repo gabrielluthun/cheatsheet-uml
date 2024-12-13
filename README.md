@@ -87,3 +87,10 @@ Le diagramme de cas d'utilisation est l'un des diagrammes les plus importants en
 - Identifier les exigences fonctionnelles du système
 - Faciliter la communication avec les parties prenantes
 - Servir de base pour une planification et estimation du projet
+
+#### Quels sont les concepts clés du diagramme de cas d'utilisation ?
+
+- **Acteur** : une entité externe qui interagit avec le système.
+- **Cas d'utilisation** : une fonctionnalité du système qui apporte de la valeur à un acteur.
+- **Relation acteur-cas d'utilisation** : une association entre un acteur et un cas d'utilisation.
+- **Système** : l'ensemble des cas d'utilisation et acteurs.

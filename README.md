@@ -94,3 +94,8 @@ Le diagramme de cas d'utilisation est l'un des diagrammes les plus importants en
 - **Cas d'utilisation** : une fonctionnalité du système qui apporte de la valeur à un acteur.
 - **Relation acteur-cas d'utilisation** : une association entre un acteur et un cas d'utilisation.
 - **Système** : l'ensemble des cas d'utilisation et acteurs.
+
+#### Quels sont les liens entre User Stories et cas d'utilisation ?
+
+Les **User Stories** sont des descriptions courtes, simples, mais plus techniquement détaillée des fonctionnalités du système.
+De plus, un cas d'utilisation peut être décomposé en plusieurs User Stories.

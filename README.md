@@ -120,4 +120,4 @@ Le diagramme de classe est un diagramme statique qui représente la structure d'
 - **Méthode** : un comportement de la classe.
 - **Relation** : une association, agrégation, héritage, et composition.
 
-Pour plus de détails, consultez la page suivante : [Diagramme de classe](docs/diagramme-classe.md)
+Pour avoir un aperçu complet du diagramme de classe, consultez la page suivante : [Diagramme de classe](/docs/diagramme-class.md)

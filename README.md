@@ -10,6 +10,7 @@ Cette cheatsheet a pour objectif de présenter les bases du langage UML (Unified
 4. [Les différents types de diagrammes UML](#les-différents-types-de-diagrammes-uml)
 5. [Outils utilisés pour la création de diagrammes UML](#outils-utilisés-pour-la-création-de-diagrammes-uml)
 6. [Initiation sur le diagramme de cas d'utilisation](#initiation-sur-le-diagramme-de-cas-d'utilisation)
+7. [Diagramme de classe](#diagramme-de-classe)
 
 ## Qu'est-ce que UML ?
 

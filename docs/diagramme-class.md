@@ -1,13 +1,13 @@
-## Diagramme de classe (UML)
+# Diagramme de classe (UML)
 
 Ce fichier présente en détail les concepts clés du diagramme de classe en UML.
 
-### Les classes
+## Les classes
 
 Tout d'abord, il faut créer une classe et lui donner un nom.
 *(par exemple, une classe animal dans le cadre d'un diagramme de classe pour un zoo)*
 
-#### De quoi est composée une classe ?
+### De quoi est composée une classe ?
 Cette classe comporte 2 parties :
 - **Attributs** : valeurs décrivant chaque instance de cette classe -> à inscrire dans la première moitié de la classe
 Un attribut doit commencer par une minuscule et être en camelCase.
@@ -19,7 +19,7 @@ Pareillement, une méthode doit commencer par une minuscule et être en camelCas
 
 Elle est composée d'une **visibilité** qui est décrite ci-dessous.
 
-#### Qu'est-ce que la visibilité ?
+### Qu'est-ce que la visibilité ?
 
 La visibilité établit les règles d'accès aux attributs et méthodes d'une classe.
 En ce qui concerne les **attributs**, la visibilité de l'attribut peut être spécifiée :
@@ -34,7 +34,7 @@ En ce qui concerne les **attributs**, la visibilité de l'attribut peut être sp
 Cette **visiblité** doit être placée avant le nom de l'attribut (donc à gauche).
 Il est possible de spécifier la visibilité des méthodes de la même manière, mais cela est moins courant.
 
-#### Les relations
+### Les relations
 
 Les classes peuvent être reliées entre elles par des relations.
 Il existe 4 types de relations :

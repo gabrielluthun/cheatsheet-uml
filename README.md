@@ -101,3 +101,23 @@ Le diagramme de cas d'utilisation est l'un des diagrammes les plus importants en
 
 Les **User Stories** sont des descriptions courtes, simples, mais plus techniquement détaillée des fonctionnalités du système.
 De plus, un cas d'utilisation peut être décomposé en plusieurs User Stories.
+
+---
+
+### Diagramme de classe 
+
+Le diagramme de classe est un diagramme statique qui représente la structure d'un système. 
+
+#### Objectifs du diagramme de classe
+- Visualiser la structure d'un système
+- Identifier les classes et les relations entre elles
+- Comprendre les attributs et les méthodes de chaque classe
+
+#### Quels sont les concepts clés du diagramme de classe ?
+
+- **Classe** : une entité qui représente un concept du système.
+- **Attribut** : une propriété de la classe.
+- **Méthode** : un comportement de la classe.
+- **Relation** : une association, agrégation, héritage, et composition.
+
+Pour plus de détails, consultez la page suivante : [Diagramme de classe](docs/diagramme-classe.md)

@@ -42,3 +42,25 @@ Il existe 4 types de relations :
 Dans le cadre d'un diagramme de classe, on utilise une flèche avec un triangle creux à l'extrémité de la flèche, comme suit : 
 <img src="/assets/heritage-diag-classe.png" alt="Flèche de l'héritage pour le diagramme de classes" width="75" height="37" />
 
+- **Association** : il s'agit d'une relation entre deux classes.
+Représentée par une ligne simple entre les deux classes, avec une flèche indiquant la direction de la relation, comme suit :
+![Association](/assets/association-diag-classe.png)
+
+- **Agrégation** : une relation de type « tout ou en partie ».
+Représentée par une ligne avec un losange creux à l'extrémité de la flèche, comme suit :
+![Agrégration](/assets/agregation-diagramme-class.png)
+
+- **Composition** : une relation de type « tout ou rien ».
+Représentée par une ligne avec un losange plein, comme suit :
+![Composition](/assets/composition-diag-classe.png)
+
+- La **multiplicité** : elle permet d'indiquer des contraintes numériques à notre relation.
+Voilà les différentes multiplicités possibles :
+    - **1** : exactement un
+    - **0..1** : zéro ou un
+    - **1..*** : un ou plusieurs
+    - **0..*** : zéro ou plusieurs
+    - **n** : un nombre précis
+    - **m..n** : un intervalle de nombres
+
+*Tip : La multiplicité peut nous faire penser à la cardinalité dans la méthode MERISE.*

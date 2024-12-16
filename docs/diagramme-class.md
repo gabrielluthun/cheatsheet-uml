@@ -44,15 +44,17 @@ Dans le cadre d'un diagramme de classe, on utilise une flèche avec un triangle 
 
 - **Association** : il s'agit d'une relation entre deux classes.
 Représentée par une ligne simple entre les deux classes, avec une flèche indiquant la direction de la relation, comme suit :
-![Association](/assets/association-diag-classe.png)
+
+<img src="/assets/association-diag-classe.png" alt="Flèche de l'association pour le diagramme de classes" width="75" height="37" />
 
 - **Agrégation** : une relation de type « tout ou en partie ».
 Représentée par une ligne avec un losange creux à l'extrémité de la flèche, comme suit :
-![Agrégration](/assets/agregation-diagramme-class.png)
+
+<img src="/assets/association-diag-classe.png" alt="Losange creux pour l'agrégation dans le diagramme de classes" width="75" height="37" />
 
 - **Composition** : une relation de type « tout ou rien ».
 Représentée par une ligne avec un losange plein, comme suit :
-![Composition](/assets/composition-diag-classe.png)
+<img src="/assets/composition-diag-classe.png" alt="Losange plein pour la composition dans le diagramme de classes" width="75" height="37" />
 
 - La **multiplicité** : elle permet d'indiquer des contraintes numériques à notre relation.
 Voilà les différentes multiplicités possibles :

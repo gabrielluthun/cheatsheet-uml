@@ -50,7 +50,7 @@ Représentée par une ligne simple entre les deux classes, avec une flèche indi
 - **Agrégation** : une relation de type « tout ou en partie ».
 Représentée par une ligne avec un losange creux à l'extrémité de la flèche, comme suit :
 
-<img src="/assets/association-diag-classe.png" alt="Losange creux pour l'agrégation dans le diagramme de classes" width="75" height="37" />
+<img src="/assets/agregation-diagramme-class.png" alt="Losange creux pour l'agrégation dans le diagramme de classes" width="75" height="37" />
 
 - **Composition** : une relation de type « tout ou rien ».
 Représentée par une ligne avec un losange plein, comme suit :

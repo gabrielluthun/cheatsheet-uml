@@ -121,3 +121,15 @@ Le diagramme de classe est un diagramme statique qui représente la structure d'
 - **Relation** : une association, agrégation, héritage, et composition, qui montre comment les classes interagissent entre elles.
 
 Pour avoir un aperçu complet du diagramme de classe, consultez la page suivante : [Diagramme de classe](/docs/diagramme-class.md)
+
+---
+### Diagramme de séquence
+
+Le diagramme de séquence est un diagramme comportemental qui montre **comment** les objets interagissent dans une séquence temporelle.
+
+#### Les concepts clés du diagramme de séquence
+
+- **Acteur** : une entité externe qui interagit avec le système.
+- **Objet** : une instance d'une classe, représentant un élément du système.
+- **Message** : une communication entre les objets, montrant l'interaction entre eux.
+- **Ligne de vie** : une ligne verticale qui représente le temps, montrant l'existence d'un objet.

@@ -10,12 +10,20 @@ Le diagramme de séquence est un diagramme comportemental qui montre **comment**
 
 Le diagramme de séquence a plusieurs objectifs, notamment :
 
-**Représentation temporelle des interactions** : Il permet de visualiser l'ordre des messages échangés entre les objets.
+- **Représentation temporelle des interactions** : Il permet de visualiser l'ordre des messages échangés entre les objets.
 
-**Compréhension des interactions** : Il facilite la compréhension des interactions entre les objets, en montrant comment ils se répondent les uns aux autres.
+- **Compréhension des interactions** : Il facilite la compréhension des interactions entre les objets, en montrant comment ils se répondent les uns aux autres.
 
-**Visualisation du flux de contrôle** : Il montre comment le contrôle passe d'un objet à un autre, permettant de comprendre le déroulement des opérations.
+- **Visualisation du flux de contrôle** : Il montre comment le contrôle passe d'un objet à un autre, permettant de comprendre le déroulement des opérations.
 
-**Illustration ds scénarios d'utilisation** : Il peut être utilisé pour détailler un scénario d'utilisation, montrant comment les objets interagissent pour réaliser une tâche.
+- **Illustration ds scénarios d'utilisation** : Il peut être utilisé pour détailler un scénario d'utilisation, montrant comment les objets interagissent pour réaliser une tâche.
 
-**Validation de la logique** : Il permet aux concepteurs et aux développeurs de valider la logique de l'interaction entre les objets.
+- **Validation de la logique** : Il permet aux concepteurs et aux développeurs de valider la logique de l'interaction entre les objets.
+
+### Les éléments principaux du diagramme de séquence
+
+Le diagramme de séquence est composé de plusieurs éléments clés, chacun ayant un rôle crucial :
+
+- **Acteur** : une entité externe qui interagit avec le système. Il est représenté par une forme de boîte avec le nom de l'acteur à l'intérieur.
+
+ 

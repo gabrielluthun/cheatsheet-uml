@@ -133,3 +133,5 @@ Le diagramme de séquence est un diagramme comportemental qui montre **comment**
 - **Objet** : une instance d'une classe, représentant un élément du système.
 - **Message** : une communication entre les objets, montrant l'interaction entre eux.
 - **Ligne de vie** : une ligne verticale qui représente le temps, montrant l'existence d'un objet.
+
+Comme pour le diagramme de classe, pour voir une documentation complète sur le diagramme de séquence, consultez la page suivante : [Diagramme de séquence](/docs/diagramme-sequence.md)
